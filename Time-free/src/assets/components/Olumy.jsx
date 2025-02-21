@@ -22,7 +22,7 @@ const myStyle ={
         <img src="myCam.jpg" alt=""/>
         <h1>Falowo Olumide Babajide {myCounter}</h1>
         <p style={myStyle}>This is the day that the <b>lord</b> has made and i will rejoice and be gad in him.
-          Join me to praise the name of the Lord.
+          Join me to praise the name of the Lord, i have seen his goodness.
         </p>
         <button onClick={increaseCount}>increase</button>
         <br />
